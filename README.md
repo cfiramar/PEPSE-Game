@@ -1,12 +1,15 @@
-# 🌲 PEPSE: Chill 8-bit Inspired Game With Nostalgic Scent
+# 🌲 PEPSE
+### Relaxing Pixel Art Adventure With Nostalgic Charm
 
-> **PEPSE** is a Java-based platformer featuring an infinite, procedurally generated world, a dynamic day/night cycle, and realistic physics.
+> **Explore, fly, and lose yourself in this relaxing, infinite retro-style world.**
 
 https://github.com/user-attachments/assets/e81ccc02-c591-4ff9-9e68-9e3ed3de0492
 
 ## 📖 About The Project
 
-We developed this game as our final project for the Object-Oriented Programming course at Hebrew University.
+**PEPSE** is a Java-based platformer featuring an infinite, procedurally generated world, a dynamic day/night cycle, and realistic physics.
+
+We developed this game as our final project for the Object-Oriented Programming course at the Hebrew University of Jerusalem, Using the **DanoGameLab** engine as our framework.
 
 This was also my **first major pair-programming experience**. We moved beyond just writing code to actually *engineering* a system together - debating architecture, implementing **Design Patterns** (like Strategy and Factory) to keep our code clean, and debugging complex logic as a team.
 
@@ -57,7 +60,7 @@ Beyond our shared work on the core game logic, I was responsible for the game's 
 
 | **Peaceful Sunrise** | **Beautiful Full Moon** | **HELP IM FALLING** |
 |:---:|:---:|:---:|
-| ![Sunrise](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/sunrise.png) | ![Full Moon](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/full_moon.png) | ![Falling](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/falling.png) |
+| ![Sunrise](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/sunrise.png) | ![Full Moon](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/full_moon.png) | <img width="425" height="500" alt="Falling" src="https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/falling.png"/> |
 
 ---
 
