@@ -1,3 +1,3 @@
 @echo off
-start javaw -cp "PEPSE.jar;DanoGameLab.jar" pepse.PepseGameManager
+start javaw -cp "PEPSE-Game.jar;libs/DanoGameLab.jar" pepse.PepseGameManager
 exit
