@@ -2,7 +2,7 @@
 
 > **PEPSE** is a Java-based platformer featuring an infinite, procedurally generated world, a dynamic day/night cycle, and realistic physics.
 
-[![Gameplay Demo](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/game_demo_thumbnail.png)](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/game_demo.mp4)
+https://github.com/user-attachments/assets/e81ccc02-c591-4ff9-9e68-9e3ed3de0492
 
 ## 📖 About The Project
 
