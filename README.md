@@ -2,8 +2,7 @@
 
 > **PEPSE** is a Java-based platformer featuring an infinite, procedurally generated world, a dynamic day/night cycle, and realistic physics.
 
-![Gameplay Demo](https://place-hold.it/800x400?text=Insert+Gameplay+GIF+Here&fontsize=30)
-*(Suggested: A GIF showing the avatar running as the world generates ahead)*
+[![Gameplay Demo](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/game_demo_thumbnail.png)](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/game_demo.mp4)
 
 ## 📖 About The Project
 
@@ -35,28 +34,33 @@ We realized that checking collisions for every single block would kill the frame
 While the core engine was a joint effort, I took ownership of the game's "Soul" - its atmosphere, visuals, and polish.
 
 * **Atmospheric Immersion:** I designed a **Day/Night Cycle** that feels organic, implementing a working **Moon Phase** system, custom sunset color gradients, and parallax stars/clouds to create depth.
-* **Custom Animations:** I manually edited sprite sheets to create specific physics-based animations, such as the Avatar **"Flapping Wings"** when flying and deploying a **Parachute** when falling.
-* **Reactive Audio:** I integrated a soundscape where effects are tied to physics events - for example, the "landing" sound only triggers when the physics engine detects a collision with high velocity.
+* **Custom Animations:** I manually edited sprite sheets to create specific physics-based animations, such as the Avatar **"Flapping Wings"** when flying, and a **"Scared"** facial expression when falling.
+* **Reactive Audio:** I integrated a soundscape where effects are tied to physics events - for example, the "flapping wings" sound when the player flies.
 
-## 📸 Gallery
+## 🎮 How to Play (Controls)
 
-| **Day/Night Transition** | **Flight Mechanics** |
-|:---:|:---:|
-| ![Sunset](https://place-hold.it/300x200?text=Screenshot:+Sunset+Cycle) | ![Flight](https://place-hold.it/300x200?text=Screenshot:+Flight+Mechanic) |
-| *Real-time sunset gradients* | *Energy-limited flight system* |
+* **Move:** Left / Right Arrows
+* **Jump:** Space
+* **Fly:** Shift + Space
 
-## 🚀 How to Play
+## 🛠️ Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/cfiramar/PEPSE-Game.git](https://github.com/cfiramar/PEPSE-Game.git)
+    git clone https://github.com/cfiramar/PEPSE-Game.git
     ```
 2.  **Run the Game:**
-    * **Windows:** Double-click `PlayGame.bat`.
-    * **Manual:** Run `java -cp "PEPSE.jar;libs/DanoGameLab.jar" pepse.PepseGameManager` in your terminal.
+    * **Windows:** Double-click `RunToPlay.bat`.
+    * **Manual:** Run `java -cp "PEPSE-Game.jar;libs/DanoGameLab.jar" pepse.PepseGameManager` in your terminal.
 
 *(Requirement: Java 11 or higher installed)*
 
+## 📸 Gallery
+
+| **Peaceful Sunrise** | **Beautiful Full Moon** | **HELP IM FALLING** |
+|:---:|:---:|:---:|
+| ![Sunrise](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/sunrise.png) | ![Full Moon](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/full_moon.png) | ![Falling](https://raw.githubusercontent.com/cfiramar/PEPSE-Game/main/assets/README/falling.png) |
+
 ---
 
-*Created by Cfir Amar \& Tomer Chechik.*
+*Created by Cfir Amar \& Tomer Chechik*
